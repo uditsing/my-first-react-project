@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.5f361e03.chunk.css",
-    "main.js": "/static/js/main.ed0de294.chunk.js",
-    "main.js.map": "/static/js/main.ed0de294.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.83c3e0c4.js",
-    "runtime-main.js.map": "/static/js/runtime-main.83c3e0c4.js.map",
-    "static/js/2.763b34e5.chunk.js": "/static/js/2.763b34e5.chunk.js",
-    "static/js/2.763b34e5.chunk.js.map": "/static/js/2.763b34e5.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.a4a89a7ae9b941166d6d519c94ebf9db.js": "/precache-manifest.a4a89a7ae9b941166d6d519c94ebf9db.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.763b34e5.chunk.js.LICENSE.txt": "/static/js/2.763b34e5.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+    "main.css": "/uditsing/my-first-react-project/static/css/main.5f361e03.chunk.css",
+    "main.js": "/uditsing/my-first-react-project/static/js/main.fde83c72.chunk.js",
+    "main.js.map": "/uditsing/my-first-react-project/static/js/main.fde83c72.chunk.js.map",
+    "runtime-main.js": "/uditsing/my-first-react-project/static/js/runtime-main.6d354459.js",
+    "runtime-main.js.map": "/uditsing/my-first-react-project/static/js/runtime-main.6d354459.js.map",
+    "static/js/2.763b34e5.chunk.js": "/uditsing/my-first-react-project/static/js/2.763b34e5.chunk.js",
+    "static/js/2.763b34e5.chunk.js.map": "/uditsing/my-first-react-project/static/js/2.763b34e5.chunk.js.map",
+    "index.html": "/uditsing/my-first-react-project/index.html",
+    "precache-manifest.cce89613f1e55dc0fabc4c5ba74bb91d.js": "/uditsing/my-first-react-project/precache-manifest.cce89613f1e55dc0fabc4c5ba74bb91d.js",
+    "service-worker.js": "/uditsing/my-first-react-project/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/uditsing/my-first-react-project/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.763b34e5.chunk.js.LICENSE.txt": "/uditsing/my-first-react-project/static/js/2.763b34e5.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/uditsing/my-first-react-project/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.83c3e0c4.js",
+    "static/js/runtime-main.6d354459.js",
     "static/js/2.763b34e5.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.ed0de294.chunk.js"
+    "static/js/main.fde83c72.chunk.js"
   ]
 }
